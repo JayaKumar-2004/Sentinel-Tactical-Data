@@ -3,23 +3,28 @@
   "zones": [
     {
       "name": "South India",
-      "url": "https://1024terabox.com/s/1PJpzYiuigIjQql1K_yhFgg"
+      "url": "LINK_GOES_HERE_WHEN_DONE",
+      "version": "2.0"
     },
     {
       "name": "North India",
-      "url": ""
+      "url": "",
+      "version": "1.0"
     },
     {
       "name": "East India",
-      "url": ""
+      "url": "",
+      "version": "1.0"
     },
     {
       "name": "West India",
-      "url": ""
+      "url": "",
+      "version": "1.0"
     },
     {
       "name": "North East India",
-      "url": ""
+      "url": "",
+      "version": "1.0"
     }
   ]
 }
