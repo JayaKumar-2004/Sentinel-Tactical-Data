@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "zones": [
+    {
+      "zone_name": "South India",
+      "zone_url": "",
+      "states": [
+        {
+          "name": "Karnataka",
+          "url": ""
+        },
+        {
+          "name": "Kerala",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "zone_name": "West India",
+      "zone_url": "",
+      "states": [
+        {
+          "name": "Maharashtra",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
