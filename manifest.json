@@ -1,29 +1,25 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "zones": [
     {
-      "zone_name": "South India",
-      "zone_url": "",
-      "states": [
-        {
-          "name": "Karnataka",
-          "url": ""
-        },
-        {
-          "name": "Kerala",
-          "url": ""
-        }
-      ]
+      "name": "South India",
+      "url": ""
     },
     {
-      "zone_name": "West India",
-      "zone_url": "",
-      "states": [
-        {
-          "name": "Maharashtra",
-          "url": ""
-        }
-      ]
+      "name": "North India",
+      "url": ""
+    },
+    {
+      "name": "East India",
+      "url": ""
+    },
+    {
+      "name": "West India",
+      "url": ""
+    },
+    {
+      "name": "North East India",
+      "url": ""
     }
   ]
 }
